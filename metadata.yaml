@@ -1,0 +1,30 @@
+_repo: A-Strange-Discovery_8665
+creator:
+  author:
+    agent_name: Dake, Charles Romyn
+    birthdate: 1849
+    deathdate: 1899
+    gutenberg_agent_id: '2840'
+    url: http://www.gutenberg.org/2009/agents/2840
+description: "A Strange Discovery is an 1899 novel by Charles Romyn Dake and is a\
+  \ sequel to Edgar Allan Poe's The Narrative of Arthur Gordon Pym of Nantucket which\
+  \ was published in 1838. It follows the experiences of the narrator, an Englishman,\
+  \ during his stay in Bellevue, Illinois (see below), and his encounter with Dirk\
+  \ Peters, Pym's sailor companion in Poe's novel. On his deathbed, Peters relates\
+  \ the missing conclusion to Poe's tale.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8665'
+  wikidata: Q4659832
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: A Strange Discovery
+url: http://www.gutenberg.org/ebooks/8665
+wikipedia:
+- https://en.wikipedia.org/wiki/A_Strange_Discovery
