@@ -1,4 +1,8 @@
 _repo: A-Strange-Discovery_8665
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dake, Charles Romyn
@@ -12,6 +16,8 @@ description: "A Strange Discovery is an 1899 novel by Charles Romyn Dake and is 
   \ during his stay in Bellevue, Illinois (see below), and his encounter with Dirk\
   \ Peters, Pym's sailor companion in Poe's novel. On his deathbed, Peters relates\
   \ the missing conclusion to Poe's tale.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8665#A-Strange-Discovery
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
 identifiers:
